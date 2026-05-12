@@ -22,7 +22,7 @@
 <!-- Hero Section -->
 <div class="hero text-center text-Red">
     <h1>Welcome to RCM World</h1>
-    <p>Right Concept Marketing</p>
+    <p><i>Right Concept Marketing</i></p>
 </div>
 
 <!-- About -->
